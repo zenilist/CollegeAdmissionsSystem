@@ -1,15 +1,13 @@
-# CollegeAdmissionsSystem
-
 # **370 Project Group 1**
 ## **Part A**
 ## **Team Members**
- Aviraj Kar |
- Omar Abdullah |
- Muhammad Umair Jamil |
- Suraj Gurung |
- Ankita KC |
- Jurgen Dashi |
- Shiao Chen 
+1. Aviraj Kar
+1. Muhammad Umair Jamil
+1. Omar Abdullah
+1. Suraj Gurung 
+1. Ankita KC 
+1. Jurgen Dashi
+1. Shiao Chen 
 ## **Purpose:**
 After researching and completing some student surveys throughout our college my team and I have come to the conclusion of creating a software that can solve problems and complexities faced by all students throughout CUNY colleges.   
 
@@ -134,6 +132,7 @@ Applicants would need to pass every criteria to proceed
 
 **2.5 Context Diagrams and Process Flow Diagrams**
 ## ![](Aspose.Words.33403258-ba2c-4040-804b-c426cfc01509.001.png)
+## **Part D, E, F Explained**
 ## **Design Patterns :** 
 - Strategy Pattern 
 - Singleton Pattern 
@@ -144,10 +143,11 @@ Applicants would need to pass every criteria to proceed
 - Command Pattern
 
 ## **Dividing the Project:** 
+1. Combining all the parts
+   1. Aviraj Kar
 1. Logging in 
    1. **Umair Jamil** 
-
-**Command Pattern**
+      1. **Command Pattern**
 
 - Check to see if login details match. 
 - If data is incorrect, return to login page to sign up 
