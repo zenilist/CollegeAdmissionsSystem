@@ -1,0 +1,6 @@
+public enum StudentType {
+    STUDENT_TYPE_IN_STATE,
+    STUDENT_TYPE_OUT_STATE,
+    STUDENT_TYPE_INTERNATIONAL
+
+}
