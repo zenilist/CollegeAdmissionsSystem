@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/School Admissions - Group 1.iml" filepath="$PROJECT_DIR$/School Admissions - Group 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollegeAdmissions.iml" filepath="$PROJECT_DIR$/CollegeAdmissions.iml" />
     </modules>
   </component>
 </project>
