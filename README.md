@@ -131,7 +131,7 @@ Applicants would need to pass every criteria to proceed
 ## **Part C**
 
 **2.5 Context Diagrams and Process Flow Diagrams**
-## ![Screenshot](Group Project Flowchart.png)
+![Screenshot](Group Project Flowchart.png)
 ## **Part D, E, F Explained**
 ## **Design Patterns :** 
 - Strategy Pattern 
