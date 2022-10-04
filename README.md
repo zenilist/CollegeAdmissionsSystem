@@ -131,7 +131,7 @@ Applicants would need to pass every criteria to proceed
 ## **Part C**
 
 **2.5 Context Diagrams and Process Flow Diagrams**
-## ![](Aspose.Words.33403258-ba2c-4040-804b-c426cfc01509.001.png)
+## ![](Group Project Flowchart.png)
 ## **Part D, E, F Explained**
 ## **Design Patterns :** 
 - Strategy Pattern 
