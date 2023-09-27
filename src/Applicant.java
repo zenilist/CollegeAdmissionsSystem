@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Applicant implements Observer{
     private String name;
     private int age;
@@ -14,6 +16,23 @@ public class Applicant implements Observer{
         this.state = state;
         this.gender = gender;
     }
+    public Applicant(){
+        getApplicantInput();
+    }
+
+    private void getApplicantInput() {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter Name: ");
+        setName(input.nextLine());
+        System.out.println("Enter age: ");
+        setAge(input.nextInt());
+        System.out.println("Enter zipcode: ");
+        setZipcode(input.nextInt());
+        System.out.println("Enter state of residency: ");
+        setState(input.nextLine());
+        System.out.println("Enter gender: ");
+        setGender(input.nextLine());
+    }
 
     public String getName() {
         return name;
@@ -23,7 +42,7 @@ public class Applicant implements Observer{
         this.name = name;
     }
 
-    public int getAge() {
+    public int getAge() throws NumberFormatException {
         return age;
     }
 
