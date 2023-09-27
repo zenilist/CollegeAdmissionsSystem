@@ -6,16 +6,8 @@ public class Applicant implements Observer{
     private int zipcode;
     private String state;
     private String gender;
-
     private School school;
 
-    public Applicant(String name, int age, int zipcode, String state, String gender) {
-        this.name = name;
-        this.age = age;
-        this.zipcode = zipcode;
-        this.state = state;
-        this.gender = gender;
-    }
     public Applicant(){
         getApplicantInput();
     }
@@ -50,24 +42,12 @@ public class Applicant implements Observer{
         this.age = age;
     }
 
-    public int getZipcode() {
-        return zipcode;
-    }
-
     public void setZipcode(int zipcode) {
         this.zipcode = zipcode;
     }
 
-    public String getState() {
-        return state;
-    }
-
     public void setState(String state) {
         this.state = state;
-    }
-
-    public String getGender() {
-        return gender;
     }
 
     public void setGender(String gender) {
